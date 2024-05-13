@@ -2,8 +2,8 @@
 
 import { useEffect } from 'react';
 
-const URL = "https://www.instagram.com/mc.loneliness/"
-const NAME = "Instagram"
+const URL = "https://t.me/+_nLFVmqobbJhOTVk"
+const NAME = "Telegram"
 
 export default function RedirectPage() {
 

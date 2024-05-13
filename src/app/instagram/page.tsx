@@ -2,8 +2,8 @@
 
 import { useEffect } from 'react';
 
-const URL = "https://docs.google.com/document/d/1TGCEmzEZHVeELybjk8hmCkdNlXPMGm5O9GRRQjXi974/edit?usp=sharing"
-const NAME = "Vanilla Challenge Rules"
+const URL = "https://www.instagram.com/mc.loneliness/"
+const NAME = "Instagram"
 
 export default function RedirectPage() {
 

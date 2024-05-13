@@ -2,8 +2,8 @@
 
 import { useEffect } from 'react';
 
-const URL = "https://discord.com/invite/pajKHKbTHj"
-const NAME = "Discord"
+const URL = "https://docs.google.com/document/d/1GrRqY8QPwbyoYXqu1jOetHWtcANarkkrW825-sXMsCk/edit?usp=sharing"
+const NAME = "Vanilla Rules"
 
 export default function RedirectPage() {
 
