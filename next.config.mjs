@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/loneliness-frontend",
+    basePath: "/LonelinessFrontend",
     output: "export",  // <=== enables static exports
     reactStrictMode: true,
 };
