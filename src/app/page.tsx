@@ -10,17 +10,27 @@ export default function Home() {
         {/* Navigation links */}
         <Link href="/discord">
             <h2 className="mb-3 text-2xl font-semibold">Discord</h2>
-            <p className="m-0 max-w-[30ch] text-sm opacity-50">Go to the Discord.</p>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">Resta aggiornato su Discord.</p>
         </Link>
-
-        <Link href="/home">
-            <h2 className="mb-3 text-2xl font-semibold">Home</h2>
-            <p className="m-0 max-w-[30ch] text-sm opacity-50">Go to the Home page.</p>
+        <Link href="/instagram">
+            <h2 className="mb-3 text-2xl font-semibold">Instagram</h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">Seguici su Instagram.</p>
         </Link>
-
-        <Link href="/asd">
-            <h2 className="mb-3 text-2xl font-semibold">Asd</h2>
-            <p className="m-0 max-w-[30ch] text-sm opacity-50">Go to the Asd page.</p>
+        <Link href="/telegram">
+            <h2 className="mb-3 text-2xl font-semibold">Telegram</h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">Trovaci su Telegram.</p>
+        </Link>
+        <Link href="/vanilla-challenge-rules">
+            <h2 className="mb-3 text-2xl font-semibold">Vanilla challenge rules</h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">Vai alle regole della sfida vanilla.</p>
+        </Link>
+        <Link href="/vanilla-rules">
+            <h2 className="mb-3 text-2xl font-semibold">Vanilla rules</h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">Vai alle regole del server vanilla.</p>
+        </Link>
+        <Link href="/vota">
+            <h2 className="mb-3 text-2xl font-semibold">Vota</h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">Vota il server.</p>
         </Link>
 
         {/* Your existing content */}
