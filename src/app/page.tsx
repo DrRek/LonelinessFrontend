@@ -8,6 +8,10 @@ export default function Home() {
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         {/* Navigation links */}
+        <Link href="/shop">
+            <h2 className="mb-3 text-2xl font-semibold">Shop</h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">Acquista upgrade sul server.</p>
+        </Link>
         <Link href="/discord">
             <h2 className="mb-3 text-2xl font-semibold">Discord</h2>
             <p className="m-0 max-w-[30ch] text-sm opacity-50">Resta aggiornato su Discord.</p>
